@@ -11,5 +11,6 @@ Create a repository in your GitHub account. Put your solution there. In the read
 
 Make sure you have a TestProgram that will validate the proposed refactored codes.
 
-![image](https://github.com/JaimeDyIII/DependencyInversion/assets/152839721/cad5c6bc-d764-4377-9190-d0859ba43b21)
+![image](https://github.com/JaimeDyIII/DependencyInversion/assets/152839721/30b56e74-db06-4a1e-88d9-dea6d2ba1549)
+
 
